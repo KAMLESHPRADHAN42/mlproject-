@@ -1,0 +1,7 @@
+patient_id,cohort,age,gender,gender_M,BMI,diameter_cm,Total_length_cm,Total_volume_cm3,Total_SA_cm2,Diam_length,ROD,Peak_wall_stress_MPa,Location_peak_wall_stress,Diameter_at_peak_wall_stress_cm,Asymmetry,Coefficient,smoker,pack_year,hypertension,diabetes,statin,ruptured,thrombus,inflam
+P3,Patient_1_15,70,M,1,25.51,5.7,13.0,194.9,19.1,0.439,1.752,0.552,Posterior,5.3,0.175,0.755,0.0,,1.0,,,,,
+AAA9,AAA_paper1,74,M,1,,7.4,,,,,,Unknown,,,1.0,105.0,1.0,0.0,,0.0,1.0,0.0,,
+AAA6,AAA_paper1,53,M,1,,5.3,,,,,,Unknown,,,1.0,50.0,1.0,,0.0,1.0,0.0,,,
+P12,Patient_1_15,81,M,1,31.01,6.8,14.0,267.6,25.2,0.484,1.994,0.499,Left,5.6,0.411,0.391,1.0,35.0,1.0,,0.0,,,
+AAA11,AAA_paper1,72,M,1,,6.5,,,,,,Unknown,,,1.0,30.0,0.0,1.0,,0.0,1.0,0.0,,
+P8,Patient_1_15,70,M,1,,6.0,11.1,216.7,20.4,0.541,1.508,0.387,Posterior,4.6,0.834,0.806,1.0,90.0,1.0,,,,,
